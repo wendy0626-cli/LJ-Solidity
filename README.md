@@ -1,4 +1,2 @@
 # LJ-Solidity
 
-
-
